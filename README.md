@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ### My Tech Stack 📚
 
 <img alt ="AndroidStudio" src
-="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&3DDC84&logoColor=white"/>
-
+="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
+<img alt ="JAVA" src
+="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt ="SQL" src
+="https://img.shields.io/badge/Oracle%20SQL-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
 
