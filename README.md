@@ -1,5 +1,5 @@
-![](https://capsule-render.vercel.app/api?type=Rounded&color=6667AB&height=300&section=header&text=KimSoHyeon&fontSize=90&fontColor=FFFFFF)
-{: .text-center }
+<div align=center><img alt ="header" src
+="https://capsule-render.vercel.app/api?type=Rounded&color=6667AB&height=300&section=header&text=KimSoHyeon&fontSize=90&fontColor=FFFFFF"/></div>
 
 <br/>
 
