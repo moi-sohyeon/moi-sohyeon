@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <br/>
 
 💻 used as the main
+<br/>
+
 <img alt ="AndroidStudio" src
 ="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
 <img alt ="JAVA" src
@@ -41,6 +43,8 @@ Here are some ideas to get you started:
 <br/>
 
 💻 used at least once
+<br/>
+
 <img alt ="C" src
 ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt ="C++" src
