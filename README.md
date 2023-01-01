@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=Rounded&color=6667AB&height=300&section=header&text=KimSoHyeon&fontSize=90&fontColor=FFFFFF)
+<center>![](https://capsule-render.vercel.app/api?type=Rounded&color=6667AB&height=300&section=header&text=KimSoHyeon&fontSize=90&fontColor=FFFFFF)</center>
 
 
 
