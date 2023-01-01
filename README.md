@@ -3,6 +3,7 @@
 
 <br/>
 <br/>
+<br/>
 
 <div align=center>반갑습니다😊 저는 김소현이라고 합니다.<br/>저는 '자바를 이용한 앱 디자인 및 구동' 과 '빅데이터 머신러닝'에 대해 공부하고 있습니다!<br/>앞으로 꾸준히 제가 배운 내용과 진행했던 프로젝트 성과들을 업로드할 예정입니다!</div>
    
@@ -23,12 +24,11 @@ Here are some ideas to get you started:
    
 <br/>
 <br/>
-
----  
-
 <br/>
 
-#### My Tech Stack 📚
+<div align=center>
+   
+My Tech Stack 📚
 
 <br/>
 
@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 
 <br/>
 
----
-
+</div>
 
 ![moi-sohyeon's github stats](https://github-readme-stats.vercel.app/api?username=moi-sohyeon&show_icons=true)
