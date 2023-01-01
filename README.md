@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 My Tech Stack 📚
 
 <br/>
+<br/>
 
 💻 used as the main
 
@@ -71,4 +72,10 @@ My Tech Stack 📚
 
 </div>
 
-![moi-sohyeon's github stats](https://github-readme-stats.vercel.app/api?username=moi-sohyeon&show_icons=true)
+
+<br/>
+<br/>
+<br/>
+
+<div align=center><img alt ="header" src
+="https://github-readme-stats.vercel.app/api?username=moi-sohyeon&show_icons=true"/></div>
