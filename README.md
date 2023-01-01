@@ -78,4 +78,4 @@ My Tech Stack 📚
 <br/>
 
 <div align=center><img alt ="header" src
-="https://github-readme-stats.vercel.app/api?username=moi-sohyeon&show_icons=true"/></div>
+="https://github-readme-stats.vercel.app/api?username=moi-sohyeon&show_icons=true&theme=radical"/></div>
