@@ -1,4 +1,4 @@
-반갑습니다😊 저는 김소현이라고 합니다.{: .text-center }<br/>저는 '자바를 이용한 앱 디자인 및 구동' 과 '빅데이터 머신러닝'에 대해 공부하고 있습니다!{: .text-center }<br/>앞으로 꾸준히 제가 배운 내용과 진행했던 프로젝트 성과들을 업로드할 예정입니다!{: .text-center }
+<center>반갑습니다😊 저는 김소현이라고 합니다.<br/>저는 '자바를 이용한 앱 디자인 및 구동' 과 '빅데이터 머신러닝'에 대해 공부하고 있습니다!<br/>앞으로 꾸준히 제가 배운 내용과 진행했던 프로젝트 성과들을 업로드할 예정입니다!</center>
    
 <!--
 **moi-sohyeon/moi-sohyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
