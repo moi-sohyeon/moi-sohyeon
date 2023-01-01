@@ -17,10 +17,9 @@ Here are some ideas to get you started:
    
 <br/>
 <br/>
-<br/>
-<br/>
+
    
-### My Tech Stack 📚
+#### My Tech Stack 📚
 
 <img alt ="AndroidStudio" src
 ="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
