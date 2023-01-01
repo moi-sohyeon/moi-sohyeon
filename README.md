@@ -1,6 +1,6 @@
 <center>![](https://capsule-render.vercel.app/api?type=Rounded&color=6667AB&height=300&section=header&text=KimSoHyeon&fontSize=90&fontColor=FFFFFF)</center>
 
-
+<br/>
 
 <center>반갑습니다😊 저는 김소현이라고 합니다.</center>
 <br/>저는 '자바를 이용한 앱 디자인 및 구동' 과 '빅데이터 머신러닝'에 대해 공부하고 있습니다!<br/>앞으로 꾸준히 제가 배운 내용과 진행했던 프로젝트 성과들을 업로드할 예정입니다!
