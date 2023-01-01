@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
    
 #### My Tech Stack 📚
+
 <br/>
+
 💻 used as the main
 <img alt ="AndroidStudio" src
 ="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
@@ -37,6 +39,7 @@ Here are some ideas to get you started:
 ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 <br/>
+
 💻 used at least once
 <img alt ="C" src
 ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
@@ -45,7 +48,7 @@ Here are some ideas to get you started:
 <img alt ="C#" src
 ="https://img.shields.io/badge/C%20Sharp-239120.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
 <img alt ="Unity" src
-="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
 <img alt ="Linux" src
 ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
 <img alt ="SpingBoot" src
