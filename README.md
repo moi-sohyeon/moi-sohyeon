@@ -1,5 +1,5 @@
 <div align=center><img alt ="header" src
-="https://capsule-render.vercel.app/api?type=Rounded&color=6667AB&height=300&section=header&text=KimSoHyeon&fontSize=90&fontColor=FFFFFF"/></div>
+="https://capsule-render.vercel.app/api?type=Rounded&color=6667AB&height=200&section=header&text=KimSoHyeon&fontSize=90&fontColor=FFFFFF"/></div>
 
 <br/>
 <br/>
