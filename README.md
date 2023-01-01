@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 ---  
 
 <br/>
+
 #### My Tech Stack 📚
 
 <br/>
 
 💻 used as the main
+
 <br/>
 
 <img alt ="AndroidStudio" src
@@ -45,6 +47,7 @@ Here are some ideas to get you started:
 <br/>
 
 💻 used at least once
+
 <br/>
 
 <img alt ="C" src
@@ -61,4 +64,5 @@ Here are some ideas to get you started:
 ="https://img.shields.io/badge/Sping%20Boot-6DB33F.svg?&style=for-the-badge&logo=Sping%20Boot&logoColor=white"/>
 
 <br/>
+
 ---
