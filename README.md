@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-   
+---  
+
+<br/>
 #### My Tech Stack 📚
 
 <br/>
@@ -58,3 +60,5 @@ Here are some ideas to get you started:
 <img alt ="SpingBoot" src
 ="https://img.shields.io/badge/Sping%20Boot-6DB33F.svg?&style=for-the-badge&logo=Sping%20Boot&logoColor=white"/>
 
+<br/>
+---
