@@ -68,3 +68,6 @@ Here are some ideas to get you started:
 <br/>
 
 ---
+
+
+![moi-sohyeon's github stats](https://github-readme-stats.vercel.app/api?username=moi-sohyeon&show_icons=true)
